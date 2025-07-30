@@ -1,7 +1,7 @@
 # 👋 Hi there
 
 I'm Carlos Eduardo, a passionate software developer and technology enthusiast. I currently work as a Software Analyst at T-Systems do Brasil. </br>
-With more than 2 years of experience in the field, I had the opportunity to work on several exciting projects and explore different technologies.
+With more than 4 years of experience in the field, I had the opportunity to work on several exciting projects and explore different technologies.
 
 
 # 🚀 Expertise
